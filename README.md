@@ -11,12 +11,6 @@ Beckman Institute for Advanced Science and Technology<br />
 University of Illinois at Urbana-Champaign<br />
 Urbana-Champaign, United States<br />
 <br />
-Author:<br />
-
-**Flavio Mourao**<br />
-mouraofg@illinois.edu<br />
-
-
 Primary repository host:<br />
 🧠 Maren Lab – Beckman Institute for Advanced Science and Technology  
 University of Illinois Urbana-Champaign<br />
