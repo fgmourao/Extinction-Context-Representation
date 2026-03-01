@@ -3,7 +3,6 @@
 Correspondence:<br />
 <br />
 Author:<br />
-<br />
 **Flavio Mourao**<br />
 mouraofg@illinois.edu<br />
 <br />
