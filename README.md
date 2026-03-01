@@ -13,6 +13,5 @@ Urbana-Champaign, United States<br />
 <br />
 Primary repository host:<br />
 🧠 Maren Lab – Beckman Institute for Advanced Science and Technology<br />  
-University of Illinois Urbana-Champaign<br />
 https://github.com/marenlab<br />
 <br />
